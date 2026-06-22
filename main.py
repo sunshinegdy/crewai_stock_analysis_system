@@ -18,11 +18,14 @@ sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 from src.stock_analysis_system import StockAnalysisSystem
 from src.flows.investment_flow import SmartInvestmentFlow
 from src.flows.batch_analysis_flow import BatchAnalysisFlow
+from src.utils.llm_config import configure_llm_provider
 
 # 设置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+# 首先配置默认LLM提供商（默认通义千问，可通过 LLM_PROVIDER 切换）
+configure_llm_provider()
 
 def check_environment():
     """检查环境配置"""

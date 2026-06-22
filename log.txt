@@ -1,0 +1,1175 @@
+2026-01-20 11:23:23,678 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:23:23,682 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:23:23,682 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:23:23,691 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:23:23,695 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:23:23,695 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:23:23,700 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:23:23,704 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:23:23,704 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:23:23,719 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 11:23:25,464 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 11:40:25,818 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:40:25,823 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:40:25,823 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:40:25,836 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:40:25,841 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:40:25,842 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:40:25,849 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:40:25,854 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:40:25,854 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:40:25,870 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 11:40:26,748 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 11:40:26,749 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-01-20 11:44:27,700 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:44:27,706 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:44:27,706 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:44:27,715 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:44:27,719 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:44:27,719 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:44:27,724 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:44:27,728 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:44:27,728 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:44:27,746 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 11:44:28,636 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 11:44:28,640 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-01-20 11:45:39,017 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:45:39,022 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:45:39,022 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:45:39,031 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:45:39,035 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:45:39,035 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:45:39,041 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:45:39,046 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:45:39,046 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:45:39,062 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 11:45:39,943 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 11:45:39,946 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-01-20 11:53:15,474 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:53:15,478 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:53:15,478 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:53:15,488 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:53:15,492 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:53:15,492 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:53:15,499 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 11:53:15,503 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 11:53:15,504 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 11:53:15,521 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 11:53:16,391 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 11:53:16,393 - asyncio - DEBUG - Using proactor: IocpProactor
+2026-01-20 12:12:40,565 - root - WARNING - 无法导入crewai_tools工具: No module named 'openai.types.batch'
+2026-01-20 12:12:40,704 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:12:40,712 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:12:40,713 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:12:40,714 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:12:40,714 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:12:40,716 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:12:40,716 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:12:40,716 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:12:40,716 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:12:40,717 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:12:40,718 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:12:40,718 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:12:40,719 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:12:40,720 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:12:40,833 - crewai.utilities.llm_utils - ERROR - Error instantiating LLM from environment/fallback: ModuleNotFoundError: No module named 'openai.types.batch'
+2026-01-20 12:12:40,846 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:12:40,853 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:12:40,854 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:12:40,856 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:12:40,856 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:12:40,857 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:12:40,858 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:12:40,858 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:12:40,858 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:12:40,858 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:12:40,860 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:12:40,860 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:12:40,861 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:12:40,862 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:12:40,890 - crewai.utilities.llm_utils - ERROR - Error instantiating LLM from environment/fallback: ModuleNotFoundError: No module named 'openai.types.batch'
+2026-01-20 12:12:40,898 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:12:40,904 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:12:40,905 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:12:40,907 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:12:40,907 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:12:40,908 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:12:40,908 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:12:40,909 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:12:40,909 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:12:40,909 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:12:40,910 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:12:40,911 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:12:40,912 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:12:40,913 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:12:40,941 - crewai.utilities.llm_utils - ERROR - Error instantiating LLM from environment/fallback: ModuleNotFoundError: No module named 'openai.types.batch'
+2026-01-20 12:12:40,966 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 12:12:41,193 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 12:37:59,323 - root - WARNING - 无法导入crewai_tools工具: cannot import name 'Omit' from 'openai' (/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/openai/__init__.py)
+2026-01-20 12:37:59,462 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:37:59,469 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:37:59,470 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:37:59,472 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:37:59,472 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:37:59,474 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:37:59,474 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:37:59,474 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:37:59,474 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:37:59,475 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:37:59,476 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:37:59,476 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:37:59,477 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:37:59,478 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:37:59,637 - crewai.utilities.llm_utils - ERROR - Error instantiating LLM from environment/fallback: ImportError: Error importing native provider: OPENAI_API_KEY is required
+2026-01-20 12:37:59,649 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:37:59,656 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:37:59,657 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:37:59,659 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:37:59,659 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:37:59,660 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:37:59,660 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:37:59,660 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:37:59,661 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:37:59,661 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:37:59,662 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:37:59,662 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:37:59,664 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:37:59,664 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:37:59,666 - crewai.utilities.llm_utils - ERROR - Error instantiating LLM from environment/fallback: ImportError: Error importing native provider: OPENAI_API_KEY is required
+2026-01-20 12:37:59,673 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:37:59,680 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:37:59,681 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:37:59,683 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:37:59,683 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:37:59,684 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:37:59,685 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:37:59,685 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:37:59,685 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:37:59,685 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:37:59,687 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:37:59,687 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:37:59,688 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:37:59,688 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:37:59,689 - crewai.utilities.llm_utils - ERROR - Error instantiating LLM from environment/fallback: ImportError: Error importing native provider: OPENAI_API_KEY is required
+2026-01-20 12:37:59,712 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 12:38:27,273 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (2): telemetry.crewai.com:4319
+2026-01-20 12:38:27,943 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 12:41:20,059 - root - WARNING - 无法导入crewai_tools工具: cannot import name 'Omit' from 'openai' (/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/openai/__init__.py)
+2026-01-20 12:41:20,190 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:41:20,198 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:41:20,198 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:41:20,200 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:20,200 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:20,201 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:20,201 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:20,202 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:41:20,202 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:41:20,202 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:41:20,203 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:20,203 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:20,205 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:20,205 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:20,276 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,278 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,313 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,315 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,354 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,356 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,396 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,398 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,436 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,438 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,480 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:20,481 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:20,482 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:20,483 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:20,484 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:20,484 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:20,485 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:20,485 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:20,487 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,488 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,526 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,530 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,571 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,573 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,608 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,610 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,648 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,650 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,687 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,688 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,726 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,728 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,767 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,769 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,808 - stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 12:41:20,818 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:41:20,825 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:41:20,826 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:41:20,827 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:20,828 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:20,829 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:20,829 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:20,829 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:41:20,830 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:41:20,830 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:41:20,831 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:20,831 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:20,832 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:20,832 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:20,834 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,836 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,872 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,875 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,911 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,912 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,946 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,948 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:20,984 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:20,986 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,027 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:21,027 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:21,029 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:21,029 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:21,031 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:21,031 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:21,032 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:21,032 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:21,033 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,035 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,073 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,075 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,113 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,115 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,157 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,159 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,193 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,195 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,234 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,236 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,272 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,274 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,310 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,312 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,363 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:41:21,370 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:41:21,371 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:41:21,372 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:21,372 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:21,373 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:21,374 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:21,374 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:41:21,374 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:41:21,374 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:41:21,376 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:21,376 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:21,377 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:21,377 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:21,378 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,380 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,416 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,417 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,456 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,458 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,500 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,501 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,538 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,540 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,580 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:21,580 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:21,581 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:21,581 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:21,582 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:21,583 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:21,584 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:21,584 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:21,585 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,587 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,623 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,625 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,663 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,665 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,700 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,702 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,735 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,737 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,776 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,778 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,813 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,815 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,849 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,851 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,893 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 12:41:21,900 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:41:21,907 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:41:21,908 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:41:21,909 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:21,909 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:21,910 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:21,911 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:21,911 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:41:21,911 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:41:21,911 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:41:21,912 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:21,913 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:21,914 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:21,914 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:21,916 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,917 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,952 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,954 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:21,991 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:21,994 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,032 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,034 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,074 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,075 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,114 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:22,114 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:22,116 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:22,116 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:22,117 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:22,117 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:22,118 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:22,118 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:22,120 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,121 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,156 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,158 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,198 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,200 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,236 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,238 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,273 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,274 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,317 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,319 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,363 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,365 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,406 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,408 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,449 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 12:41:22,456 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/agents.yaml
+2026-01-20 12:41:22,464 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: /mnt/d/code/Python/crewai_stock_analysis_system/config/tasks.yaml
+2026-01-20 12:41:22,465 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 12:41:22,466 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:22,466 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:22,467 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:22,467 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:22,468 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 12:41:22,468 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 12:41:22,468 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 12:41:22,469 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:22,469 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:22,471 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:22,471 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:22,473 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,475 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,511 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,513 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,548 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,550 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,589 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,591 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,627 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,629 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,667 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:22,668 - root - WARNING - Agents config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 12:41:22,669 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:22,669 - root - WARNING - Tasks config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 12:41:22,671 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml
+2026-01-20 12:41:22,671 - root - WARNING - Agent config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 12:41:22,672 - root - WARNING - File not found: /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml
+2026-01-20 12:41:22,672 - root - WARNING - Task config file not found at /mnt/d/code/Python/crewai_stock_analysis_system/src/crews/config/tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 12:41:22,674 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,675 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,716 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,718 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,757 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,759 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,795 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,796 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,834 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,838 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,876 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,878 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,914 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,916 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,950 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 12:41:22,951 - httpx - DEBUG - load_verify_locations cafile='/mnt/d/code/Python/crewai_stock_analysis_system/.venv/lib/python3.12/site-packages/certifi/cacert.pem'
+2026-01-20 12:41:22,990 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 12:41:23,015 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 12:41:50,159 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (2): telemetry.crewai.com:4319
+2026-01-20 12:41:50,701 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 13:02:48,687 - root - WARNING - 无法导入crewai_tools工具: cannot import name 'Omit' from 'openai' (D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\__init__.py)
+2026-01-20 13:02:48,709 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:02:48,714 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:02:48,714 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:02:48,714 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:02:48,714 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:02:48,714 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:02:48,714 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:02:48,715 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:02:48,715 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:02:48,715 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:02:48,715 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:02:48,715 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:02:48,715 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:02:48,715 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:02:48,730 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:48,731 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:49,218 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:49,220 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:49,736 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:49,737 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:50,236 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:50,237 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:50,742 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:50,742 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:51,232 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:02:51,232 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:02:51,233 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:02:51,233 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:02:51,233 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:02:51,233 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:02:51,233 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:02:51,233 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:02:51,235 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:51,235 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:51,726 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:51,727 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:52,239 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:52,240 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:52,739 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:52,740 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:53,232 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:53,233 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:53,745 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:53,746 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:54,256 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:54,257 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:54,803 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:54,804 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:55,301 - stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:02:55,308 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:02:55,315 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:02:55,315 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:02:55,316 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:02:55,316 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:02:55,316 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:02:55,316 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:02:55,317 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:02:55,317 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:02:55,317 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:02:55,317 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:02:55,317 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:02:55,317 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:02:55,317 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:02:55,319 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:55,320 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:55,820 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:55,821 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:56,357 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:56,358 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:56,880 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:56,881 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:57,414 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:57,414 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:57,932 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:02:57,932 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:02:57,933 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:02:57,933 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:02:57,933 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:02:57,933 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:02:57,934 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:02:57,934 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:02:57,935 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:57,935 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:58,456 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 13:02:58,459 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:58,460 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:59,108 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:59,109 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:02:59,491 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 13:02:59,663 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:02:59,664 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:00,160 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:00,161 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:00,710 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:00,711 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:01,236 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:01,237 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:01,753 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:01,754 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:02,277 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:03:02,281 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:03:02,281 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:03:02,281 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:02,281 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:03:02,282 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:02,282 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:03:02,282 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:03:02,282 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:03:02,282 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:03:02,282 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:02,283 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:03:02,283 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:02,283 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:03:02,285 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:02,286 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:02,830 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:02,831 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:03,375 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:03,376 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:03,911 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:03,912 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:04,449 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:04,450 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:04,681 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 13:03:04,982 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:04,982 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:03:04,983 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:04,983 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:03:04,983 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:04,983 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:03:04,983 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:04,983 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:03:04,984 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:04,985 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:05,510 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:05,511 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:06,021 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:06,022 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:06,538 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:06,539 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:07,031 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:07,032 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:07,542 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:07,543 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:08,029 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:08,030 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:08,534 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:08,535 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:09,017 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:03:09,022 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:03:09,025 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:03:09,026 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:03:09,026 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:09,026 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:03:09,026 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:09,026 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:03:09,026 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:03:09,027 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:03:09,027 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:03:09,027 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:09,027 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:03:09,027 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:09,027 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:03:09,028 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:09,029 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:09,534 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:09,535 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:10,033 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:10,034 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:10,558 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:10,559 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:11,040 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:11,040 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:11,521 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:11,522 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:03:11,522 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:11,522 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:03:11,522 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:11,522 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:03:11,522 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:11,522 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:03:11,523 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:11,524 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:12,005 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:12,007 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:12,481 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:12,481 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:12,959 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:12,959 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:13,445 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:13,445 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:13,967 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:13,967 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:14,461 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:14,462 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:14,967 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:14,968 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:15,441 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:03:15,445 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:03:15,449 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:03:15,449 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:03:15,449 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:15,449 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:03:15,449 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:15,449 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:03:15,449 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:03:15,449 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:03:15,449 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:03:15,451 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:15,451 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:03:15,451 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:15,451 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:03:15,452 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:15,453 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:15,965 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:15,966 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:16,449 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:16,450 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:16,924 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:16,925 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:17,406 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:17,406 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:17,891 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:17,891 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:03:17,891 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:17,892 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:03:17,892 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:03:17,892 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:03:17,892 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:03:17,892 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:03:17,893 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:17,894 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:18,406 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:18,406 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:18,899 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:18,899 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:19,382 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:19,383 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:19,938 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:19,939 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:20,500 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:20,501 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:21,109 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:21,110 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:21,818 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:03:21,818 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:03:22,521 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:11:36,577 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:11:36,583 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:11:36,583 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:11:36,583 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:36,583 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:11:36,584 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:36,584 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:11:36,584 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:11:36,584 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:11:36,584 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:11:36,584 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:36,584 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:11:36,585 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:36,585 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:11:36,590 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:36,591 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:37,064 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:37,065 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:37,530 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:37,532 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:37,996 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:37,997 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:38,461 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:38,462 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:38,937 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:38,938 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:11:38,938 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:38,938 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:11:38,938 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:38,938 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:11:38,939 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:38,939 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:11:38,940 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:38,940 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:39,403 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:39,404 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:39,884 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:39,885 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:40,402 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:40,403 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:40,897 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:40,898 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:41,354 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:41,354 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:41,872 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:41,873 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:42,346 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:42,346 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:42,859 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:11:42,864 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:11:42,867 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:11:42,867 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:11:42,868 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:42,868 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:11:42,868 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:42,868 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:11:42,868 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:11:42,868 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:11:42,869 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:11:42,869 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:42,869 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:11:42,869 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:42,869 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:11:42,871 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:42,871 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:43,378 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:43,379 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:43,867 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:43,868 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:44,363 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:44,364 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:44,849 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:44,850 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:45,360 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:45,360 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:11:45,360 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:45,360 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:11:45,360 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:45,361 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:11:45,361 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:45,361 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:11:45,362 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:45,363 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:45,861 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:45,861 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:46,342 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:46,343 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:46,818 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:46,819 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:47,310 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:47,311 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:47,841 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:47,842 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:48,327 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:48,328 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:48,840 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:48,840 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:49,349 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:11:49,354 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:11:49,357 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:11:49,357 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:11:49,357 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:49,357 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:11:49,359 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:49,359 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:11:49,359 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:11:49,359 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:11:49,359 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:11:49,359 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:49,360 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:11:49,360 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:49,360 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:11:49,363 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:49,363 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:49,845 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:49,845 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:50,308 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:50,308 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:50,771 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:50,772 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:51,262 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:51,263 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:51,782 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:51,782 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:11:51,782 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:51,782 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:11:51,782 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:11:51,784 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:11:51,784 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:11:51,784 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:11:51,784 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:51,786 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:52,296 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:52,297 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:52,809 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:52,810 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:53,288 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:53,289 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:53,751 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:53,752 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:54,215 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:54,216 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:54,687 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:54,688 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:55,156 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:11:55,156 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:11:55,625 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:11:55,628 - __main__ - INFO - 模板文件不存在，创建新模板...
+2026-01-20 13:11:55,629 - __main__ - INFO - HTML模板已创建
+2026-01-20 13:11:55,668 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.126:5000
+2026-01-20 13:11:55,668 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-20 13:11:55,696 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-20 13:12:02,427 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:12:02,430 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:12:02,430 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:12:02,431 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:02,431 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:12:02,431 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:02,431 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:12:02,431 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:12:02,431 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:12:02,432 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:12:02,432 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:02,432 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:12:02,432 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:02,432 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:12:02,436 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:02,437 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:02,933 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:02,934 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:03,400 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:03,401 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:03,864 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:03,865 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:04,340 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:04,341 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:04,823 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:04,823 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:12:04,824 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:04,824 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:12:04,824 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:04,824 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:12:04,824 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:04,824 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:12:04,826 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:04,826 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:05,313 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:05,314 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:05,813 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:05,813 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:06,288 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:06,288 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:06,767 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:06,767 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:07,250 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:07,251 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:07,719 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:07,719 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:08,187 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:08,187 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:08,668 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:12:08,673 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:12:08,678 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:12:08,678 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:12:08,678 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:08,679 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:12:08,679 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:08,679 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:12:08,679 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:12:08,679 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:12:08,679 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:12:08,680 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:08,680 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:12:08,681 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:08,682 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:12:08,684 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:08,684 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:09,154 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:09,154 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:09,630 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:09,631 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:10,106 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:10,107 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:10,568 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:10,568 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:11,035 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:11,035 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:12:11,036 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:11,036 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:12:11,036 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:11,036 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:12:11,036 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:11,036 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:12:11,037 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:11,038 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:11,500 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:11,501 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:11,977 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:11,978 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:12,444 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:12,445 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:12,949 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:12,951 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:13,593 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:13,594 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:14,252 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:14,253 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:14,934 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:14,936 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:15,600 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:12:15,606 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\agents.yaml
+2026-01-20 13:12:15,610 - src.crews.data_collection_crew - DEBUG - 成功加载配置文件: D:\code\Python\crewai_stock_analysis_system\config\tasks.yaml
+2026-01-20 13:12:15,611 - src.crews.data_collection_crew - INFO - 配置加载完成 - agents: 16, tasks: 15
+2026-01-20 13:12:15,611 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:15,612 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:12:15,612 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:15,612 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:12:15,612 - src.crews.analysis_crew - WARNING - 使用内置默认agents配置
+2026-01-20 13:12:15,612 - src.crews.analysis_crew - WARNING - 使用内置默认tasks配置
+2026-01-20 13:12:15,612 - src.crews.analysis_crew - INFO - 配置加载完成 - agents: 5, tasks: 5
+2026-01-20 13:12:15,613 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:15,613 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:12:15,613 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:15,613 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:12:15,615 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:15,616 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:16,272 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:16,273 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:16,941 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:16,942 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:17,618 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:17,618 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:18,128 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:18,129 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:18,608 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:18,609 - root - WARNING - Agents config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agents configurations.
+2026-01-20 13:12:18,609 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:18,609 - root - WARNING - Tasks config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty tasks configurations.
+2026-01-20 13:12:18,609 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml
+2026-01-20 13:12:18,609 - root - WARNING - Agent config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\agents.yaml. Proceeding with empty agent configurations.
+2026-01-20 13:12:18,610 - root - WARNING - File not found: D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml
+2026-01-20 13:12:18,610 - root - WARNING - Task config file not found at D:\code\Python\crewai_stock_analysis_system\src\crews\config\tasks.yaml. Proceeding with empty task configurations.
+2026-01-20 13:12:18,611 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:18,611 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:19,112 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:19,113 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:19,616 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:19,617 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:20,113 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:20,114 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:20,606 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:20,607 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:21,107 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:21,108 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:21,595 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:21,596 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:22,090 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:12:22,090 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:12:22,565 - src.stock_analysis_system - INFO - 股票分析系统初始化完成
+2026-01-20 13:12:22,569 - __main__ - INFO - 模板文件已存在，使用现有模板
+2026-01-20 13:12:22,574 - werkzeug - WARNING -  * Debugger is active!
+2026-01-20 13:12:22,579 - werkzeug - INFO -  * Debugger PIN: 901-185-871
+2026-01-20 13:12:22,625 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:12:22] "GET / HTTP/1.1" 200 -
+2026-01-20 13:12:22,736 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:12:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-20 13:12:52,664 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:12:52] "GET /monitor/status HTTP/1.1" 200 -
+2026-01-20 13:13:22,813 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:13:22] "GET /monitor/status HTTP/1.1" 200 -
+2026-01-20 13:13:52,814 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:13:52] "GET /monitor/status HTTP/1.1" 200 -
+2026-01-20 13:14:22,823 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:14:22] "GET /monitor/status HTTP/1.1" 200 -
+2026-01-20 13:14:51,439 - src.stock_analysis_system - INFO - 开始分析股票: 苹果公司 (AAPL)
+2026-01-20 13:14:51,440 - src.stock_analysis_system - INFO - 第一阶段：数据收集
+2026-01-20 13:14:51,440 - src.crews.data_collection_crew - INFO - 开始执行苹果公司的数据收集任务
+2026-01-20 13:14:51,441 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:14:51,442 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:14:52,059 - src.crews.data_collection_crew - INFO - ✓ 创建市场研究员智能体成功
+2026-01-20 13:14:52,060 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:14:52,061 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:14:52,662 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:14:52] "GET /monitor/status HTTP/1.1" 200 -
+2026-01-20 13:14:52,673 - src.crews.data_collection_crew - INFO - ✓ 创建财务数据专家智能体成功
+2026-01-20 13:14:52,674 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:14:52,674 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:14:53,317 - src.crews.data_collection_crew - INFO - ✓ 创建技术分析师智能体成功
+2026-01-20 13:14:53,317 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:14:53,318 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:14:53,912 - src.crews.data_collection_crew - INFO - ✓ 创建数据验证专家智能体成功
+2026-01-20 13:14:53,913 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2026-01-20 13:14:53,913 - httpx - DEBUG - load_verify_locations cafile='D:\\code\\Python\\crewai_stock_analysis_system\\.venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2026-01-20 13:14:54,519 - src.crews.data_collection_crew - INFO - ✓ 创建数据协调专家智能体成功
+2026-01-20 13:14:54,520 - src.crews.data_collection_crew - INFO - ✓ 创建市场研究任务成功
+2026-01-20 13:14:54,520 - src.crews.data_collection_crew - INFO - ✓ 创建财务数据收集任务成功
+2026-01-20 13:14:54,520 - src.crews.data_collection_crew - INFO - ✓ 创建技术分析任务成功
+2026-01-20 13:14:54,520 - src.crews.data_collection_crew - INFO - ✓ 创建数据验证任务成功
+2026-01-20 13:14:54,520 - src.crews.data_collection_crew - INFO - ✓ 创建数据协调任务成功
+2026-01-20 13:14:54,532 - src.crews.data_collection_crew - INFO - ✓ 成功创建Crew实例，包含 5 个智能体和 5 个任务
+2026-01-20 13:14:54,533 - src.crews.data_collection_crew - INFO - 启动CrewAI多智能体协作...
+2026-01-20 13:14:54,533 - src.crews.data_collection_crew - INFO - 预计最长时间: 300 秒
+2026-01-20 13:14:54,552 - openai._base_client - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'You are 市场研究员. 你是一位经验丰富的市场研究员，擅长分析市场趋势和收集行业信息。请在2-3个步骤内完成任务。\nYour personal goal is: 收集苹果公司的市场趋势、行业动态和相关新闻\nYou ONLY have access to the following tools, and should NEVER make up tools that are not listed here:\n\nTool Name: Technical Analysis Tool\nTool Arguments: {\'price_data\': {\'description\': None, \'type\': \'str\'}, \'analysis_type\': {\'description\': None, \'type\': \'str\'}}\nTool Description: 计算各种技术指标并生成技术分析报告\n\nIMPORTANT: Use the following format in your response:\n\n```\nThought: you should always think about what to do\nAction: the action to take, only one name of [Technical Analysis Tool], just the name, exactly as it\'s written.\nAction Input: the input to the action, just a simple JSON object, enclosed in curly braces, using " to wrap keys and values.\nObservation: the result of the action\n```\n\nOnce all necessary information is gathered, return the following format:\n\n```\nThought: I now know the final answer\nFinal Answer: the final answer to the original input question\n```'}, {'role': 'user', 'content': '\nCurrent Task: 对苹果公司进行简要的市场研究，包括行业动态和市场趋势\n\nThis is the expected criteria for your final answer: 简要的苹果公司市场研究报告，包含主要市场发现\nyou MUST return the actual complete content as the final answer, not a summary.\n\nBegin! This is VERY important to you, use the tools available and give your best Final Answer, your job depends on it!\n\nThought:'}], 'model': 'gpt-4o-mini'}}
+2026-01-20 13:14:54,576 - openai._base_client - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2026-01-20 13:14:54,576 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=5.0 socket_options=None
+2026-01-20 13:14:54,598 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000131A7113050>
+2026-01-20 13:14:54,598 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x00000131A7059F50> server_hostname='api.openai.com' timeout=5.0
+2026-01-20 13:14:54,675 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000131A5F88F50>
+2026-01-20 13:14:54,675 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2026-01-20 13:14:54,675 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-01-20 13:14:54,675 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2026-01-20 13:14:54,676 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-01-20 13:14:54,676 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2026-01-20 13:14:54,892 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 401, b'Unauthorized', [(b'Date', b'Tue, 20 Jan 2026 05:14:46 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'262'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_54e2e194a9444ffda8f88b412ccd7eab'), (b'x-envoy-upstream-service-time', b'1'), (b'x-openai-proxy-wasm', b'v0.1'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=lETTHcTloVYzzeeF9in6Voy8zflLTUTzRrL.JK.24bo-1768886086-1.0.1.1-GQAbmaKDnG2WtBGyEHO3t9aWgNa8OFV1oD6GULTeCeCVrvwAJp5hINva9L.XsgN3eqd0np1hW_iEb57NO3H7O7RR.RtdmEv9l3FXNlhCeR0; path=/; expires=Tue, 20-Jan-26 05:44:46 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=dh8KfFqrnvEw7awI1v.NBaiqCdCWeBRx2z3Xa9MTZx0-1768886086340-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'9c0c1716b916f2d6-NRT'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2026-01-20 13:14:54,893 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-01-20 13:14:54,893 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2026-01-20 13:14:54,893 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-01-20 13:14:54,894 - httpcore.http11 - DEBUG - response_closed.started
+2026-01-20 13:14:54,894 - httpcore.http11 - DEBUG - response_closed.complete
+2026-01-20 13:14:54,894 - openai._base_client - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "401 Unauthorized" Headers([('date', 'Tue, 20 Jan 2026 05:14:46 GMT'), ('content-type', 'application/json; charset=utf-8'), ('content-length', '262'), ('connection', 'keep-alive'), ('vary', 'Origin'), ('x-request-id', 'req_54e2e194a9444ffda8f88b412ccd7eab'), ('x-envoy-upstream-service-time', '1'), ('x-openai-proxy-wasm', 'v0.1'), ('cf-cache-status', 'DYNAMIC'), ('set-cookie', '__cf_bm=lETTHcTloVYzzeeF9in6Voy8zflLTUTzRrL.JK.24bo-1768886086-1.0.1.1-GQAbmaKDnG2WtBGyEHO3t9aWgNa8OFV1oD6GULTeCeCVrvwAJp5hINva9L.XsgN3eqd0np1hW_iEb57NO3H7O7RR.RtdmEv9l3FXNlhCeR0; path=/; expires=Tue, 20-Jan-26 05:44:46 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('strict-transport-security', 'max-age=31536000; includeSubDomains; preload'), ('x-content-type-options', 'nosniff'), ('set-cookie', '_cfuvid=dh8KfFqrnvEw7awI1v.NBaiqCdCWeBRx2z3Xa9MTZx0-1768886086340-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), ('server', 'cloudflare'), ('cf-ray', '9c0c1716b916f2d6-NRT'), ('alt-svc', 'h3=":443"; ma=86400')])
+2026-01-20 13:14:54,894 - openai._base_client - DEBUG - request_id: req_54e2e194a9444ffda8f88b412ccd7eab
+2026-01-20 13:14:54,894 - openai._base_client - DEBUG - Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 1040, in _request
+    response.raise_for_status()
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\httpx\_models.py", line 763, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-01-20 13:14:54,895 - openai._base_client - DEBUG - Not retrying
+2026-01-20 13:14:54,895 - openai._base_client - DEBUG - Re-raising status error
+2026-01-20 13:14:54,896 - root - ERROR - OpenAI API call failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-01-20 13:14:54,896 - root - ERROR - OpenAI API call failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-01-20 13:14:54,900 - openai._base_client - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'You are 市场研究员. 你是一位经验丰富的市场研究员，擅长分析市场趋势和收集行业信息。请在2-3个步骤内完成任务。\nYour personal goal is: 收集苹果公司的市场趋势、行业动态和相关新闻\nYou ONLY have access to the following tools, and should NEVER make up tools that are not listed here:\n\nTool Name: Technical Analysis Tool\nTool Arguments: {\'price_data\': {\'description\': None, \'type\': \'str\'}, \'analysis_type\': {\'description\': None, \'type\': \'str\'}}\nTool Description: 计算各种技术指标并生成技术分析报告\n\nIMPORTANT: Use the following format in your response:\n\n```\nThought: you should always think about what to do\nAction: the action to take, only one name of [Technical Analysis Tool], just the name, exactly as it\'s written.\nAction Input: the input to the action, just a simple JSON object, enclosed in curly braces, using " to wrap keys and values.\nObservation: the result of the action\n```\n\nOnce all necessary information is gathered, return the following format:\n\n```\nThought: I now know the final answer\nFinal Answer: the final answer to the original input question\n```'}, {'role': 'user', 'content': '\nCurrent Task: 对苹果公司进行简要的市场研究，包括行业动态和市场趋势\n\nThis is the expected criteria for your final answer: 简要的苹果公司市场研究报告，包含主要市场发现\nyou MUST return the actual complete content as the final answer, not a summary.\n\nBegin! This is VERY important to you, use the tools available and give your best Final Answer, your job depends on it!\n\nThought:'}], 'model': 'gpt-4o-mini'}}
+2026-01-20 13:14:54,903 - openai._base_client - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2026-01-20 13:14:54,903 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2026-01-20 13:14:54,905 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-01-20 13:14:54,905 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2026-01-20 13:14:54,905 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-01-20 13:14:54,905 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2026-01-20 13:14:55,142 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 401, b'Unauthorized', [(b'Date', b'Tue, 20 Jan 2026 05:14:46 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'262'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_5fd63e53db7b475e89cd6b9f7f7f72fe'), (b'x-envoy-upstream-service-time', b'1'), (b'x-openai-proxy-wasm', b'v0.1'), (b'cf-cache-status', b'DYNAMIC'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'9c0c17182c21f2d6-NRT'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2026-01-20 13:14:55,143 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-01-20 13:14:55,143 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2026-01-20 13:14:55,143 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-01-20 13:14:55,144 - httpcore.http11 - DEBUG - response_closed.started
+2026-01-20 13:14:55,144 - httpcore.http11 - DEBUG - response_closed.complete
+2026-01-20 13:14:55,144 - openai._base_client - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "401 Unauthorized" Headers({'date': 'Tue, 20 Jan 2026 05:14:46 GMT', 'content-type': 'application/json; charset=utf-8', 'content-length': '262', 'connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': 'req_5fd63e53db7b475e89cd6b9f7f7f72fe', 'x-envoy-upstream-service-time': '1', 'x-openai-proxy-wasm': 'v0.1', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9c0c17182c21f2d6-NRT', 'alt-svc': 'h3=":443"; ma=86400'})
+2026-01-20 13:14:55,144 - openai._base_client - DEBUG - request_id: req_5fd63e53db7b475e89cd6b9f7f7f72fe
+2026-01-20 13:14:55,144 - openai._base_client - DEBUG - Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agent\core.py", line 490, in execute_task
+    result = self._execute_without_timeout(task_prompt, task)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agent\core.py", line 598, in _execute_without_timeout
+    return self.agent_executor.invoke(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agents\crew_agent_executor.py", line 188, in invoke
+    formatted_answer = self._invoke_loop()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agents\crew_agent_executor.py", line 299, in _invoke_loop
+    raise e
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agents\crew_agent_executor.py", line 229, in _invoke_loop
+    answer = get_llm_response(
+             ^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\utilities\agent_utils.py", line 276, in get_llm_response
+    raise e
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\utilities\agent_utils.py", line 268, in get_llm_response
+    answer = llm.call(
+             ^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\llms\providers\openai\completion.py", line 197, in call
+    return self._handle_completion(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\llms\providers\openai\completion.py", line 428, in _handle_completion
+    raise e from e
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\llms\providers\openai\completion.py", line 344, in _handle_completion
+    response: ChatCompletion = self.client.chat.completions.create(**params)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\resources\chat\completions.py", line 829, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 1280, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 957, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 1061, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 1040, in _request
+    response.raise_for_status()
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\httpx\_models.py", line 763, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-01-20 13:14:55,148 - openai._base_client - DEBUG - Not retrying
+2026-01-20 13:14:55,148 - openai._base_client - DEBUG - Re-raising status error
+2026-01-20 13:14:55,148 - root - ERROR - OpenAI API call failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-01-20 13:14:55,148 - root - ERROR - OpenAI API call failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-01-20 13:14:55,154 - openai._base_client - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'json_data': {'messages': [{'role': 'system', 'content': 'You are 市场研究员. 你是一位经验丰富的市场研究员，擅长分析市场趋势和收集行业信息。请在2-3个步骤内完成任务。\nYour personal goal is: 收集苹果公司的市场趋势、行业动态和相关新闻\nYou ONLY have access to the following tools, and should NEVER make up tools that are not listed here:\n\nTool Name: Technical Analysis Tool\nTool Arguments: {\'price_data\': {\'description\': None, \'type\': \'str\'}, \'analysis_type\': {\'description\': None, \'type\': \'str\'}}\nTool Description: 计算各种技术指标并生成技术分析报告\n\nIMPORTANT: Use the following format in your response:\n\n```\nThought: you should always think about what to do\nAction: the action to take, only one name of [Technical Analysis Tool], just the name, exactly as it\'s written.\nAction Input: the input to the action, just a simple JSON object, enclosed in curly braces, using " to wrap keys and values.\nObservation: the result of the action\n```\n\nOnce all necessary information is gathered, return the following format:\n\n```\nThought: I now know the final answer\nFinal Answer: the final answer to the original input question\n```'}, {'role': 'user', 'content': '\nCurrent Task: 对苹果公司进行简要的市场研究，包括行业动态和市场趋势\n\nThis is the expected criteria for your final answer: 简要的苹果公司市场研究报告，包含主要市场发现\nyou MUST return the actual complete content as the final answer, not a summary.\n\nBegin! This is VERY important to you, use the tools available and give your best Final Answer, your job depends on it!\n\nThought:'}], 'model': 'gpt-4o-mini'}}
+2026-01-20 13:14:55,157 - openai._base_client - DEBUG - Sending HTTP Request: POST https://api.openai.com/v1/chat/completions
+2026-01-20 13:14:55,157 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2026-01-20 13:14:55,157 - httpcore.http11 - DEBUG - send_request_headers.complete
+2026-01-20 13:14:55,158 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2026-01-20 13:14:55,158 - httpcore.http11 - DEBUG - send_request_body.complete
+2026-01-20 13:14:55,158 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2026-01-20 13:14:55,398 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 401, b'Unauthorized', [(b'Date', b'Tue, 20 Jan 2026 05:14:46 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'262'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_914d25180c5044bba468417c224d244c'), (b'x-envoy-upstream-service-time', b'1'), (b'x-openai-proxy-wasm', b'v0.1'), (b'cf-cache-status', b'DYNAMIC'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'9c0c1719bedff2d6-NRT'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2026-01-20 13:14:55,398 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-01-20 13:14:55,399 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2026-01-20 13:14:55,399 - httpcore.http11 - DEBUG - receive_response_body.complete
+2026-01-20 13:14:55,399 - httpcore.http11 - DEBUG - response_closed.started
+2026-01-20 13:14:55,399 - httpcore.http11 - DEBUG - response_closed.complete
+2026-01-20 13:14:55,399 - openai._base_client - DEBUG - HTTP Response: POST https://api.openai.com/v1/chat/completions "401 Unauthorized" Headers({'date': 'Tue, 20 Jan 2026 05:14:46 GMT', 'content-type': 'application/json; charset=utf-8', 'content-length': '262', 'connection': 'keep-alive', 'vary': 'Origin', 'x-request-id': 'req_914d25180c5044bba468417c224d244c', 'x-envoy-upstream-service-time': '1', 'x-openai-proxy-wasm': 'v0.1', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9c0c1719bedff2d6-NRT', 'alt-svc': 'h3=":443"; ma=86400'})
+2026-01-20 13:14:55,400 - openai._base_client - DEBUG - request_id: req_914d25180c5044bba468417c224d244c
+2026-01-20 13:14:55,400 - openai._base_client - DEBUG - Encountered httpx.HTTPStatusError
+Traceback (most recent call last):
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agent\core.py", line 490, in execute_task
+    result = self._execute_without_timeout(task_prompt, task)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agent\core.py", line 598, in _execute_without_timeout
+    return self.agent_executor.invoke(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agents\crew_agent_executor.py", line 188, in invoke
+    formatted_answer = self._invoke_loop()
+                       ^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agents\crew_agent_executor.py", line 299, in _invoke_loop
+    raise e
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\agents\crew_agent_executor.py", line 229, in _invoke_loop
+    answer = get_llm_response(
+             ^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\utilities\agent_utils.py", line 276, in get_llm_response
+    raise e
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\utilities\agent_utils.py", line 268, in get_llm_response
+    answer = llm.call(
+             ^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\llms\providers\openai\completion.py", line 197, in call
+    return self._handle_completion(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\llms\providers\openai\completion.py", line 428, in _handle_completion
+    raise e from e
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\crewai\llms\providers\openai\completion.py", line 344, in _handle_completion
+    response: ChatCompletion = self.client.chat.completions.create(**params)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_utils\_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\resources\chat\completions.py", line 829, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 1280, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 957, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 1061, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\openai\_base_client.py", line 1040, in _request
+    response.raise_for_status()
+  File "D:\code\Python\crewai_stock_analysis_system\.venv\Lib\site-packages\httpx\_models.py", line 763, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://api.openai.com/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+2026-01-20 13:14:55,401 - openai._base_client - DEBUG - Not retrying
+2026-01-20 13:14:55,401 - openai._base_client - DEBUG - Re-raising status error
+2026-01-20 13:14:55,401 - root - ERROR - OpenAI API call failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-01-20 13:14:55,402 - root - ERROR - OpenAI API call failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-01-20 13:14:55,404 - src.crews.data_collection_crew - ERROR - 执行数据收集时出错: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-01-20 13:14:55,405 - src.utils.http_utils - ERROR - 函数执行失败: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} - 函数: execute_data_collection
+2026-01-20 13:14:55,406 - src.stock_analysis_system - ERROR - 股票分析异常: 苹果公司 (AAPL), 错误: Error code: 401 - {'error': {'message': 'Incorrect API key provided: test-api-key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-01-20 13:14:55,407 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:14:55] "POST /analyze HTTP/1.1" 200 -
+2026-01-20 13:14:56,439 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): telemetry.crewai.com:4319
+2026-01-20 13:14:57,341 - urllib3.connectionpool - DEBUG - https://telemetry.crewai.com:4319 "POST /v1/traces HTTP/1.1" 200 2
+2026-01-20 13:15:22,669 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:15:22] "GET /monitor/status HTTP/1.1" 200 -
+2026-01-20 13:15:52,669 - werkzeug - INFO - 127.0.0.1 - - [20/Jan/2026 13:15:52] "GET /monitor/status HTTP/1.1" 200 -

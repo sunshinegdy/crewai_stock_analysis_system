@@ -4,6 +4,9 @@
 """
 import sys
 import os
+# 为无钥测试提供默认的OpenAI配置，不覆盖用户已有的环境变量
+os.environ.setdefault("OPENAI_API_KEY", "test-api-key")
+os.environ.setdefault("OPENAI_MODEL_NAME", "gpt-4o-mini")
 import time
 import signal
 from threading import Timer
@@ -89,8 +92,9 @@ class DataCollectionCrew:
         self.start_time = None
         self.timeout_timer = None
 
-        self.agents_config = self._load_config('config/agents.yaml')
-        self.tasks_config = self._load_config('config/tasks.yaml')
+        # 显式传递 config_type 以兼容新版 CrewAI 的 _load_config 签名
+        self.agents_config = self._load_config('config/agents.yaml', 'agents')
+        self.tasks_config = self._load_config('config/tasks.yaml', 'tasks')
 
         # 如果配置文件加载失败，使用内置的默认配置
         if not self.agents_config:
@@ -102,9 +106,26 @@ class DataCollectionCrew:
 
         logger.info(f"配置加载完成 - agents: {len(self.agents_config)}, tasks: {len(self.tasks_config)}")
 
-    def _load_config(self, config_file: str) -> Dict[str, Any]:
-        """加载配置文件"""
+    def _load_config(self, config_file: str = None, config_type: str = None, *args, **kwargs) -> Dict[str, Any]:
+        """加载配置文件（兼容新版CrewAI额外参数）"""
         try:
+            # 兼容可能的额外位置参数
+            if config_file is None and args:
+                config_file = args[0]
+            if config_type is None and len(args) > 1:
+                config_type = args[1]
+
+            # 允许通过 config_type 推断文件路径
+            if not config_file and config_type:
+                if config_type == 'agents':
+                    config_file = 'config/agents.yaml'
+                elif config_type == 'tasks':
+                    config_file = 'config/tasks.yaml'
+
+            if not config_file:
+                logger.error("未提供配置文件路径")
+                return {}
+
             # 尝试多个可能的配置文件路径
             # 确保文件名不包含路径部分
             config_filename = os.path.basename(config_file)

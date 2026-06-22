@@ -2,6 +2,10 @@
 决策团队 - 使用CrewAI真正的集体决策机制
 负责投资建议、报告生成和质量控制，展示智能体间的集体决策和投票机制
 """
+import os
+# 为无钥测试提供默认的OpenAI配置，不覆盖用户已有的环境变量
+os.environ.setdefault("OPENAI_API_KEY", "test-api-key")
+os.environ.setdefault("OPENAI_MODEL_NAME", "gpt-4o-mini")
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from typing import List, Dict, Any, Optional
@@ -9,7 +13,6 @@ import logging
 import yaml
 import json
 from datetime import datetime
-import os
 from src.tools.reporting_tools import ReportWritingTool, DataExportTool
 from src.utils.http_utils import with_retry
 
@@ -24,12 +27,28 @@ class DecisionCrew:
 
     def __init__(self):
         """初始化决策团队"""
-        self.agents_config = self._load_config('config/agents.yaml')
-        self.tasks_config = self._load_config('config/tasks.yaml')
+        # 显式传递 config_type 以兼容新版 CrewAI 的 _load_config 签名
+        self.agents_config = self._load_config('config/agents.yaml', 'agents')
+        self.tasks_config = self._load_config('config/tasks.yaml', 'tasks')
 
-    def _load_config(self, config_file: str) -> Dict[str, Any]:
-        """加载配置文件"""
+    def _load_config(self, config_file: str = None, config_type: str = None, *args, **kwargs) -> Dict[str, Any]:
+        """加载配置文件（兼容新版CrewAI额外参数）"""
         try:
+            if config_file is None and args:
+                config_file = args[0]
+            if config_type is None and len(args) > 1:
+                config_type = args[1]
+
+            if not config_file and config_type:
+                if config_type == 'agents':
+                    config_file = 'config/agents.yaml'
+                elif config_type == 'tasks':
+                    config_file = 'config/tasks.yaml'
+
+            if not config_file:
+                logger.error("未提供配置文件路径")
+                return {}
+
             # 确保文件名不包含路径部分
             config_filename = os.path.basename(config_file)
             

@@ -2,12 +2,15 @@
 分析团队 - 使用CrewAI真正的多智能体协作
 负责基本面分析、风险分析和行业分析，展示智能体间的深度协作与集体决策
 """
+import os
+# 为无钥测试提供默认的OpenAI配置，不覆盖用户已有的环境变量
+os.environ.setdefault("OPENAI_API_KEY", "test-api-key")
+os.environ.setdefault("OPENAI_MODEL_NAME", "gpt-4o-mini")
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from typing import List, Dict, Any, Optional
 import logging
 import yaml
-import os
 import json
 from datetime import datetime
 from src.tools.fundamental_tools import FundamentalAnalysisTool
@@ -26,8 +29,9 @@ class AnalysisCrew:
 
     def __init__(self):
         """初始化分析团队"""
-        self.agents_config = self._load_config('config/agents.yaml')
-        self.tasks_config = self._load_config('config/tasks.yaml')
+        # 显式传递 config_type 以兼容新版 CrewAI 的 _load_config 签名
+        self.agents_config = self._load_config('config/agents.yaml', 'agents')
+        self.tasks_config = self._load_config('config/tasks.yaml', 'tasks')
 
         # 如果配置文件加载失败，使用内置的默认配置
         if not self.agents_config:
@@ -39,9 +43,24 @@ class AnalysisCrew:
 
         logger.info(f"配置加载完成 - agents: {len(self.agents_config)}, tasks: {len(self.tasks_config)}")
 
-    def _load_config(self, config_file: str) -> Dict[str, Any]:
-        """加载配置文件"""
+    def _load_config(self, config_file: str = None, config_type: str = None, *args, **kwargs) -> Dict[str, Any]:
+        """加载配置文件（兼容新版CrewAI额外参数）"""
         try:
+            if config_file is None and args:
+                config_file = args[0]
+            if config_type is None and len(args) > 1:
+                config_type = args[1]
+
+            if not config_file and config_type:
+                if config_type == 'agents':
+                    config_file = 'config/agents.yaml'
+                elif config_type == 'tasks':
+                    config_file = 'config/tasks.yaml'
+
+            if not config_file:
+                logger.error("未提供配置文件路径")
+                return {}
+
             # 确保文件名不包含路径部分
             config_filename = os.path.basename(config_file)
             

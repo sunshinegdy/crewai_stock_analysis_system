@@ -482,33 +482,44 @@
 ## 🛠️ 安装和配置
 
 ### 1. 环境要求
-- **Python**: 3.8+
+- **Python**: 3.10-3.13（与 CrewAI 版本兼容）
 - **操作系统**: Windows/MacOS/Linux
 - **内存**: 建议 4GB 以上
 - **网络**: 需要访问 OpenAI API 和数据源
 
-### 2. 依赖安装
+### 2. 依赖安装（基于 uv）
 
 ```bash
 # 克隆项目
 git clone <repository-url>
 cd crewai_stock_analysis_system
 
-# 安装依赖
-pip install -r requirements.txt
+# 安装 uv（如未安装）
+curl -Ls https://astral.sh/uv/install.sh | sh
+source ~/.local/bin/env  # 将 uv 加入 PATH
 
-# 安装 AkShare (可选，用于 A 股数据)
-pip install akshare
+# 创建并同步虚拟环境
+uv sync  # 默认使用 .venv
+source .venv/bin/activate           # Linux/Mac
+# .venv\\Scripts\\activate          # Windows
 ```
 
 ### 3. 环境配置
 
-创建 `.env` 文件：
+创建 `.env` 文件（默认走通义千问兼容接口；如需切换 OpenAI，将 `LLM_PROVIDER` 设为 `openai` 并填写 OPENAI_API_KEY）：
 
 ```bash
-# OpenAI 配置
-OPENAI_API_KEY=your-openai-api-key-here
-OPENAI_MODEL_NAME=gpt-4o
+# LLM 配置
+LLM_PROVIDER=qwen
+QWEN_API_KEY=your-dashscope-api-key
+QWEN_MODEL_NAME=qwen-plus
+QWEN_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
+# 如有 LiteLLM 代理，可指定
+# LITELLM_PROXY_URL=http://localhost:8000
+
+# OpenAI（可选切换）
+# OPENAI_API_KEY=your-openai-api-key
+# OPENAI_MODEL_NAME=gpt-4o
 
 # Serper API (可选，用于网络搜索)
 SERPER_API_KEY=your-serper-api-key-here
@@ -523,10 +534,10 @@ LOG_LEVEL=INFO
 
 ```bash
 # 运行系统测试
-python test_final_system.py
+uv run python test_final_system.py
 
 # 检查系统信息
-python main.py info
+uv run python main.py info
 ```
 
 ## 📖 使用指南

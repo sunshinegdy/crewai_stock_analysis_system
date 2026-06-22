@@ -1,0 +1,441 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>股票分析系统</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #ddd;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            border: 1px solid #ddd;
+            border-bottom: none;
+            background-color: #f9f9f9;
+            margin-right: 5px;
+        }
+        .tab.active {
+            background-color: white;
+            border-bottom: 2px solid white;
+            margin-bottom: -2px;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+        }
+        .progress {
+            width: 100%;
+            height: 20px;
+            background-color: #e0e0e0;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+        .progress-bar {
+            height: 100%;
+            background-color: #007bff;
+            transition: width 0.3s ease;
+        }
+        .error {
+            color: #dc3545;
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .success {
+            color: #155724;
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .stock-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .stock-item {
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+        }
+        .monitoring-status {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #e7f3ff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 股票分析系统</h1>
+            <p>基于AI的智能股票分析和监控平台</p>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" onclick="showTab('single')">单股票分析</div>
+            <div class="tab" onclick="showTab('batch')">批量分析</div>
+            <div class="tab" onclick="showTab('monitor')">实时监控</div>
+            <div class="tab" onclick="showTab('history')">分析历史</div>
+        </div>
+
+        <!-- 单股票分析 -->
+        <div id="single" class="tab-content active">
+            <h2>单股票分析</h2>
+            <form id="singleForm">
+                <div class="form-group">
+                    <label for="company">公司名称:</label>
+                    <input type="text" id="company" name="company" required placeholder="例如：苹果公司">
+                </div>
+                <div class="form-group">
+                    <label for="ticker">股票代码:</label>
+                    <input type="text" id="ticker" name="ticker" required placeholder="例如：AAPL">
+                </div>
+                <button type="submit">开始分析</button>
+            </form>
+            <div id="singleResult"></div>
+        </div>
+
+        <!-- 批量分析 -->
+        <div id="batch" class="tab-content">
+            <h2>批量分析</h2>
+            <form id="batchForm">
+                <div class="form-group">
+                    <label for="stocks">股票列表 (JSON格式):</label>
+                    <textarea id="stocks" name="stocks" rows="6" placeholder='[{"company": "苹果公司", "ticker": "AAPL"}, {"company": "微软", "ticker": "MSFT"}]'></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="strategy">分析策略:</label>
+                    <select id="strategy" name="strategy">
+                        <option value="parallel">并行分析</option>
+                        <option value="sequential">顺序分析</option>
+                        <option value="adaptive">自适应分析</option>
+                    </select>
+                </div>
+                <button type="submit">开始批量分析</button>
+            </form>
+            <div id="batchProgress"></div>
+            <div id="batchResult"></div>
+        </div>
+
+        <!-- 实时监控 -->
+        <div id="monitor" class="tab-content">
+            <h2>实时监控</h2>
+            <div class="monitoring-status">
+                <h3>监控状态</h3>
+                <div id="monitorStatus">未启动</div>
+                <button onclick="toggleMonitoring()">启动/停止监控</button>
+            </div>
+
+            <h3>添加监控股票</h3>
+            <form id="monitorForm">
+                <div class="form-group">
+                    <label for="monitorCompany">公司名称:</label>
+                    <input type="text" id="monitorCompany" name="company" required>
+                </div>
+                <div class="form-group">
+                    <label for="monitorTicker">股票代码:</label>
+                    <input type="text" id="monitorTicker" name="ticker" required>
+                </div>
+                <div class="form-group">
+                    <label for="interval">检查间隔 (秒):</label>
+                    <input type="number" id="interval" name="interval" value="300" min="60">
+                </div>
+                <button type="submit">添加到监控</button>
+            </form>
+
+            <h3>添加预警规则</h3>
+            <form id="ruleForm">
+                <div class="form-group">
+                    <label for="ruleId">规则ID:</label>
+                    <input type="text" id="ruleId" name="rule_id" required>
+                </div>
+                <div class="form-group">
+                    <label for="ruleTicker">股票代码:</label>
+                    <input type="text" id="ruleTicker" name="ticker" required>
+                </div>
+                <div class="form-group">
+                    <label for="ruleType">规则类型:</label>
+                    <select id="ruleType" name="rule_type">
+                        <option value="price">价格预警</option>
+                        <option value="score">评分预警</option>
+                        <option value="rating_change">评级变化</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="condition">条件:</label>
+                    <select id="condition" name="condition">
+                        <option value="above">高于</option>
+                        <option value="below">低于</option>
+                        <option value="equal">等于</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="threshold">阈值:</label>
+                    <input type="number" id="threshold" name="threshold" step="0.01" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">预警消息:</label>
+                    <input type="text" id="message" name="message" required>
+                </div>
+                <button type="submit">添加规则</button>
+            </form>
+        </div>
+
+        <!-- 分析历史 -->
+        <div id="history" class="tab-content">
+            <h2>分析历史</h2>
+            <button onclick="loadHistory()">刷新历史</button>
+            <div id="historyList"></div>
+        </div>
+    </div>
+
+    <script>
+        function showTab(tabName) {
+            // 隐藏所有标签内容
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+
+            // 显示选中的标签
+            document.getElementById(tabName).classList.add('active');
+            event.target.classList.add('active');
+        }
+
+        // 单股票分析
+        document.getElementById('singleForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const data = Object.fromEntries(formData);
+
+            fetch('/analyze', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                const resultDiv = document.getElementById('singleResult');
+                if (data.success) {
+                    resultDiv.innerHTML = `
+                        <div class="success">
+                            <h3>分析成功！</h3>
+                            <p><strong>公司:</strong> ${data.company}</p>
+                            <p><strong>股票代码:</strong> ${data.ticker}</p>
+                            <p><strong>投资评级:</strong> ${data.investment_rating.rating}</p>
+                            <p><strong>综合评分:</strong> ${data.overall_score.toFixed(1)}/100</p>
+                            <p><strong>报告路径:</strong> ${data.report_path}</p>
+                        </div>
+                    `;
+                } else {
+                    resultDiv.innerHTML = `<div class="error">分析失败: ${data.error}</div>`;
+                }
+            })
+            .catch(error => {
+                document.getElementById('singleResult').innerHTML = `<div class="error">请求失败: ${error}</div>`;
+            });
+        });
+
+        // 批量分析
+        document.getElementById('batchForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const data = Object.fromEntries(formData);
+            data.stocks = JSON.parse(data.stocks);
+
+            const progressDiv = document.getElementById('batchProgress');
+            const resultDiv = document.getElementById('batchResult');
+
+            progressDiv.innerHTML = '<div class="progress"><div class="progress-bar" style="width: 0%"></div></div>';
+
+            fetch('/batch_analyze', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    resultDiv.innerHTML = `
+                        <div class="success">
+                            <h3>批量分析完成！</h3>
+                            <p><strong>总计:</strong> ${data.total_count}</p>
+                            <p><strong>成功:</strong> ${data.success_count}</p>
+                            <p><strong>失败:</strong> ${data.failed_count}</p>
+                            <p><strong>成功率:</strong> ${data.success_rate.toFixed(1)}%</p>
+                        </div>
+                    `;
+                } else {
+                    resultDiv.innerHTML = `<div class="error">批量分析失败: ${data.error}</div>`;
+                }
+            })
+            .catch(error => {
+                resultDiv.innerHTML = `<div class="error">请求失败: ${error}</div>`;
+            });
+        });
+
+        // 监控相关功能
+        function toggleMonitoring() {
+            const isActive = document.getElementById('monitorStatus').textContent.includes('运行中');
+            const endpoint = isActive ? '/monitor/stop' : '/monitor/start';
+
+            fetch(endpoint, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({interval: 300})
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    updateMonitorStatus();
+                }
+            });
+        }
+
+        function updateMonitorStatus() {
+            fetch('/monitor/status')
+            .then(response => response.json())
+            .then(data => {
+                const statusDiv = document.getElementById('monitorStatus');
+                if (data.status.monitoring) {
+                    statusDiv.innerHTML = `
+                        <p><strong>状态:</strong> 运行中</p>
+                        <p><strong>监控股票数:</strong> ${data.status.monitored_stocks}</p>
+                        <p><strong>预警规则数:</strong> ${data.status.alert_rules}</p>
+                        <p><strong>监控间隔:</strong> ${data.status.monitoring_interval}秒</p>
+                    `;
+                } else {
+                    statusDiv.innerHTML = '<p><strong>状态:</strong> 未启动</p>';
+                }
+            });
+        }
+
+        // 添加监控股票
+        document.getElementById('monitorForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const data = Object.fromEntries(formData);
+
+            fetch('/monitor/add_stock', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    alert('股票已添加到监控列表');
+                } else {
+                    alert('添加失败: ' + data.error);
+                }
+            });
+        });
+
+        // 加载历史记录
+        function loadHistory() {
+            fetch('/history')
+            .then(response => response.json())
+            .then(data => {
+                const historyDiv = document.getElementById('historyList');
+                if (data.success) {
+                    let html = '<div class="stock-list">';
+                    data.history.forEach(item => {
+                        html += `
+                            <div class="stock-item">
+                                <h4>${item.company} (${item.ticker})</h4>
+                                <p><strong>时间:</strong> ${item.timestamp}</p>
+                                <p><strong>状态:</strong> ${item.success ? '成功' : '失败'}</p>
+                            </div>
+                        `;
+                    });
+                    html += '</div>';
+                    historyDiv.innerHTML = html;
+                } else {
+                    historyDiv.innerHTML = '<div class="error">加载历史失败</div>';
+                }
+            });
+        }
+
+        // 定期更新监控状态
+        setInterval(updateMonitorStatus, 30000);
+    </script>
+</body>
+</html>
+    
